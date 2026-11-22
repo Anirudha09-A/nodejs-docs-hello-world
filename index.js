@@ -1,3 +1,4 @@
+require("applicationinsights").setup().start();
 // ***************************************************************************
 // Bank API code from Web Dev For Beginners project
 // https://github.com/microsoft/Web-Dev-For-Beginners/tree/main/7-bank-project/api
